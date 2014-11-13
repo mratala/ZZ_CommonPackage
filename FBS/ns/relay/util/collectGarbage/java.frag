@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">collectGarbage</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">LyogUnVucyB0aGUgZ2FyYmFnZSBjb2xsZWN0b3IuIENhbGxpbmcgdGhlIGdjIG1ldGhvZCBzdWdn
+ZXN0cyB0aGF0IHRoZSBKYXZhIFZpcnR1YWwgTWFjaGluZSBleHBlbmQgCiAqIGVmZm9ydCB0b3dh
+cmQgcmVjeWNsaW5nIHVudXNlZCBvYmplY3RzIGluIG9yZGVyIHRvIG1ha2UgdGhlIG1lbW9yeSB0
+aGV5IGN1cnJlbnRseSBvY2N1cHkgYXZhaWxhYmxlCiAqIGZvciBxdWljayByZXVzZS4gV2hlbiBj
+b250cm9sIHJldHVybnMgZnJvbSB0aGUgbWV0aG9kIGNhbGwsIHRoZSBKYXZhIFZpcnR1YWwgTWFj
+aGluZSBoYXMgbWFkZSBhIAogKiBiZXN0IGVmZm9ydCB0byByZWNsYWltIHNwYWNlIGZyb20gYWxs
+IGRpc2NhcmRlZCBvYmplY3RzLiBUaGUgY2FsbCBTeXN0ZW0uZ2MoKSBpcyBlZmZlY3RpdmVseSAK
+ICogZXF1aXZhbGVudCB0byB0aGUgY2FsbDogUnVudGltZS5nZXRSdW50aW1lKCkuZ2MoKSAjCiAq
+ICAjLVRha2VuIGRpcmVjdGx5IGZyb20gdGhlIEphdmEgMS4yLjIgQVBJIERvY3VtZW50YXRpb24s
+IENvcHlyaWdodCAxOTkzLTE5OTkgU3VuIE1pY3Jvc3lzdGVtcywgSW5jLgogKi8KU3lzdGVtLmdj
+KCk7</value>
+</Values>
